@@ -1495,7 +1495,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #0090c5;
+			border-color: #FFA2B1;
 		}
 
 	form input[type="text"],
@@ -1618,7 +1618,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #0090c5;
+		background: #FFA2B1;
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
@@ -1923,7 +1923,7 @@ input, select, textarea {
 
 		#logo a {
 			color: #FFA2B1;
-			font-weight: 600;
+			font-weight: 500;
 			line-height: 2.5em;
 			letter-spacing: .015em;
 			font-size: 1.75em;
@@ -2094,6 +2094,15 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
+		.resume_img {
+			width: 50%;
+			outline: 3px solid hsla(350, 100%, 82%, 0.509);
+			outline-offset: 15px;
+			margin-bottom: 10px;
+		}
+		.resume {
+			text-align: center;
+		}
 /* Footer */
 
 	#footer {
@@ -2282,6 +2291,17 @@ input, select, textarea {
 					position: relative;
 					right: auto;
 					top: auto;
+				}
+
+				.resume_img {
+					width: 50%;
+					outline: 3px solid hsla(350, 100%, 82%, 0.509);
+					outline-offset: 15px;
+					margin-bottom: 10px;
+		
+				}
+				.resume {
+					text-align: center;
 				}
 
 		/* Content */
@@ -2675,6 +2695,16 @@ input, select, textarea {
 
 				#banner .button {
 					margin: 0 0 1em 0;
+				}
+
+				.resume_img {
+					width: 50%;
+					outline: 3px solid hsla(350, 100%, 82%, 0.509);
+					outline-offset: 15px;
+					margin-bottom: 10px;
+				}
+				.resume {
+					text-align: center;
 				}
 
 		/* Content */
