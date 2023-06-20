@@ -1817,7 +1817,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Karla';
+			font-family: 'Font Awesome 5 Free';
 			/* font-weight: 400; */
 		}
 
@@ -1830,7 +1830,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Karla';
+			font-family: 'Font Awesome 5 Free';
 		}
 
 		.icon > .label {
@@ -2372,7 +2372,7 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: 'Karla';
+						font-family: 'Font Awesome 5 Free';
 						/* font-weight: 900; */
 					}
 
