@@ -1627,9 +1627,6 @@ input, select, textarea {
 			line-height: inherit;
 		}
 
-		.icon.solid:before {
-			/* font-weight: 900; */
-		}
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Free';
@@ -2082,7 +2079,7 @@ input, select, textarea {
 		  .timeline ul li span{
 			display:inline-block;
 			background-color:#FFA2B1;
-			border-radius:25px;
+			border-radius:15px;
 			padding:2px 7px;
 			font-size:15px;
 			text-align:center;
